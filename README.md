@@ -1,0 +1,2 @@
+# BigScreenProportionalScaling
+大屏等比缩放模式
